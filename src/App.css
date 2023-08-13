@@ -1,0 +1,21 @@
+html{
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+#divshow{
+    display: none;
+}
+.show{
+    display: block;
+}
+body{
+    background-color: rgb(30, 28, 28);
+}
+button{
+    border: 0;
+    padding: .6rem;
+ cursor: pointer;
+}
+li{
+    list-style: none;
+}
